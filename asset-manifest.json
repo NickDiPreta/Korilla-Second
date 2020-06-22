@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Korilla-Second/static/css/main.a33af1a3.chunk.css",
+    "main.js": "/Korilla-Second/static/js/main.0e4e47cb.chunk.js",
+    "main.js.map": "/Korilla-Second/static/js/main.0e4e47cb.chunk.js.map",
+    "runtime-main.js": "/Korilla-Second/static/js/runtime-main.e8f943b6.js",
+    "runtime-main.js.map": "/Korilla-Second/static/js/runtime-main.e8f943b6.js.map",
+    "static/js/2.76fd22fd.chunk.js": "/Korilla-Second/static/js/2.76fd22fd.chunk.js",
+    "static/js/2.76fd22fd.chunk.js.map": "/Korilla-Second/static/js/2.76fd22fd.chunk.js.map",
+    "index.html": "/Korilla-Second/index.html",
+    "precache-manifest.5b00dcc813a7fd2af2cc00045a20f7ce.js": "/Korilla-Second/precache-manifest.5b00dcc813a7fd2af2cc00045a20f7ce.js",
+    "service-worker.js": "/Korilla-Second/service-worker.js",
+    "static/css/main.a33af1a3.chunk.css.map": "/Korilla-Second/static/css/main.a33af1a3.chunk.css.map",
+    "static/js/2.76fd22fd.chunk.js.LICENSE.txt": "/Korilla-Second/static/js/2.76fd22fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8f943b6.js",
+    "static/js/2.76fd22fd.chunk.js",
+    "static/css/main.a33af1a3.chunk.css",
+    "static/js/main.0e4e47cb.chunk.js"
+  ]
+}
